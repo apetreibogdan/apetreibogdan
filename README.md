@@ -11,7 +11,7 @@
 
 #### Connect with me:
 
-<a href="https://www.linkedin.com/in/apetrei-bogdan-45178854/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/apetrei-bogdan-45178854/"/></a> <a href="mailto:apetreibogdan@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:apetreibogdan@gmail.com"/></a>
+<a href="https://www.linkedin.com/in/apetrei-bogdan-b4a48b58/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/apetrei-bogdan-b4a48b58/"/></a> <a href="mailto:apetreibogdan@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:apetreibogdan@gmail.com"/></a>
 
 ---
   ### 👨🏻‍💻 Languages and Tools <br />

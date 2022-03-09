@@ -5,8 +5,15 @@
 ---
 ## Currently student at Codecool Academy!
 
-- 🔭 I’m currently working on eCommerceProject and studing at the same time!
-- 🌱 I’m currently learning **React**, 
+## :chart_with_upwards_trend: I want to learn
+- Java, SpringBoot, SpringSecuriy
+- There's always more to learn and we should never stop improving ourselves (=｀ω´=)
+
+## :sleeping: In my free time I like to
+- finish my CNC Machine 
+- bike, hike 
+- build Raspberry Pi projects 
+- play WOW
 
 
 ## Connect with me:

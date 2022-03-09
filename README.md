@@ -1,20 +1,19 @@
-### Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">, I am Bogdan Apetrei!
+# Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">, I am Bogdan Apetrei!
 ---
-### 😂 Here is a random joke that'll make you laugh!
+## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
 ---
-#### Currently student at Codecool Academy!
+## Currently student at Codecool Academy!
 
 - 🔭 I’m currently working on ..
 - 🌱 I’m currently learning **React**, 
 
-#### Connect with me:
+## Connect with me:
 
 <a href="https://www.linkedin.com/in/apetrei-bogdan-b4a48b58/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/apetrei-bogdan-b4a48b58/"/></a> <a href="mailto:apetreibogdan@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:apetreibogdan@gmail.com"/></a>
 
 ---
-  ### 👨🏻‍💻 Languages and Tools <br />
+  ## 👨🏻‍💻 Languages and Tools <br />
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png"></code>
@@ -33,4 +32,4 @@
   
   ---
   
-  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=apetreibogdan&layout=compact&show_icons=true&theme=dark)](https://github.com/apetreibogdan/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=apetreibogdan&show_icons=true&theme=blue" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apetreibogdan&layout=compact&theme=blue" alt="languages" height="165"></p>

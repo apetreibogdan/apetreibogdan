@@ -5,8 +5,9 @@
 ---
 ## Currently student at Codecool Academy!
 
-- 🔭 I’m currently working on ..
+- 🔭 I’m currently working on eCommerceProject and studing at the same time!
 - 🌱 I’m currently learning **React**, 
+
 
 ## Connect with me:
 

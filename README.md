@@ -10,9 +10,9 @@
 - There's always more to learn and we should never stop improving ourselves (=｀ω´=)
 
 ## :sleeping: In my free time I like to
-- finish my CNC Machine 
-- bike, hike 
-- build Raspberry Pi projects 
+- CNC Machine 
+- bike, hike, basketball
+- Raspberry Pi 
 - play WOW
 
 
